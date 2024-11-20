@@ -1,0 +1,25 @@
+body {
+    color: #ffffff;
+    background: #686666;
+}
+
+h1 {
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 30px;
+}
+
+.item {
+    margin: 30px;
+}
+
+footer {
+    text-align: center;
+}
